@@ -29,4 +29,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `This ChatRoom is hosted on Netlify with Admin Request the Credentials are generated and utilised to enter the chat room 
+### `This ChatRoom is hosted on Netlify with Admin Request the Credentials are generated and utilised
